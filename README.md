@@ -1,0 +1,3 @@
+# practiceprojectforfrontend
+This is my small practice project ...
+digital clock
